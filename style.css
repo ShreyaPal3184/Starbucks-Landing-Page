@@ -157,14 +157,14 @@ body {
 .category:hover {
     transform: scale(1.02) perspective(1px);
     /* box-shadow: 0 10px 10px rgba(123, 233, 138, 0.7); */
-    transition-duration: 0.5s;
+    transition-duration: 1s;
     height: 250px;
     width: 250px;
 }
 .category img:hover {
     height: 240px;
     width: 240px;
-    transition: height 0.5s, width 0.5s;
+    transition: height 1s, width 1s;
 }
 
 
